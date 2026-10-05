@@ -1,4 +1,4 @@
-# 🧮 Calculatrice Web Interactive
+# Calculatrice Web Interactive
 
 Mini calculatrice développée en HTML, CSS et JavaScript, qui s'utilise directement dans le navigateur, sans installation.
 
@@ -54,4 +54,3 @@ Calculatrice-js/
 ## 👤 Auteur
 
 **Ahanda Nancy** — Étudiante en BTS Informatique
-GitHub : [Mbianancy-design](https://github.com/Mbianancy-design)
